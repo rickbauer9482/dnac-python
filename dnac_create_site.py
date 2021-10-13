@@ -11,7 +11,7 @@ headers = {
 area = {
     "site": {
         "area": {
-            "name": "New Jersey",
+            "name": "MY STATE",
             "parentName": "Global/USA"
         }
     },
@@ -21,9 +21,9 @@ area = {
 building = {
     "site": {
         "building": {
-            "name": "Building 100",
-            "address": "100 Wood Avenue, Iselin, New Jersey 08830",
-            "parentName": "Global/USA/New Jersey"
+            "name": "MY BUILDING",
+            "address": "MY ADDRESS",
+            "parentName": "Global/USA/MY STATE"
         }
     },
     "type": "building"
@@ -32,8 +32,8 @@ building = {
 floor = {
     "site": {
         "floor": {
-            "name": "Floor 100",
-            "parentName": "Global/USA/New Jersey/Building 100",
+            "name": "MY FLOOR",
+            "parentName": "Global/USA/MY STATE/MY BUILDING",
             "rfModel": "Cubes And Walled Offices",
             "width": 100,
             "length": 200,
