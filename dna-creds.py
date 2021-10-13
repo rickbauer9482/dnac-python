@@ -1,2 +1,2 @@
-DNAC_USER = 'rickbaue'
-DNAC_PASS = 'Cisco123$%'
+DNAC_USER = 'username'
+DNAC_PASS = 'password'
